@@ -1,2 +1,5 @@
 __Text master__
 I'm Bee.
+__Feature1 text__
+I'm 20.
+Merge nameA in master and nameA in feature1
